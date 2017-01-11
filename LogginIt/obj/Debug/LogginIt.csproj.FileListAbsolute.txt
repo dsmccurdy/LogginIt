@@ -1,0 +1,5 @@
+C:\Users\oddzod\Documents\Projects\LogginIt\LogginIt\bin\Debug\LogginIt.dll
+C:\Users\oddzod\Documents\Projects\LogginIt\LogginIt\bin\Debug\LogginIt.pdb
+C:\Users\oddzod\Documents\Projects\LogginIt\LogginIt\obj\Debug\LogginIt.dll
+C:\Users\oddzod\Documents\Projects\LogginIt\LogginIt\obj\Debug\LogginIt.pdb
+C:\Users\oddzod\Documents\Projects\LogginIt\LogginIt\obj\Debug\LogginIt.csprojResolveAssemblyReference.cache
